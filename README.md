@@ -83,10 +83,9 @@ Run the script and follow the interactive menu to:
 ## moOde Import Instructions
 
 1. Run MoodeRadioBuilder and create the ZIP file
-2. Transfer `moode_radio_backup.zip` to your moOde device
-3. In moOde web interface: **System → Backup/Restore → Restore**
-4. Select the ZIP file and restore
-5. Your stations appear in the Radio section
+2. In moOde web interface: **System → Backup/Restore → Restore**
+3. Select the ZIP file and restore
+4. Your stations appear in the Radio section
 
 ## Data Sources & Attribution
 
